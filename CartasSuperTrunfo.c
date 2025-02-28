@@ -6,6 +6,7 @@ int main() {
 
     setlocale(LC_ALL, "Portuguese");
 
+    printf("DESAFIO SUPERTRUNFO INICIANTE!")
     char estado[3]="PB";
     char nome[20]="recife";
     char COD_Cidade[6]="PB01";
